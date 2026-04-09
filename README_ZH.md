@@ -20,7 +20,7 @@
 
 <br>
 
-提供原材料（Slack消息、邮件、会议纪要、反馈）
+提供原材料（Slack消息、邮件，会议纪要、反馈）
 加上你对他们指导风格的记忆，
 生成一个**承载他们导师灵魂的 AI Skill**
 
@@ -58,15 +58,6 @@ git clone https://github.com/yahao333/mentor.skill ~/.claude/skills/mentor
 /mentor
 ```
 
-### 管理命令
-
-| 命令 | 说明 |
-|------|------|
-| `/mentor` | 调用 Mentor Skill 创建器 |
-| `/list-mentors` | 列出所有已创建的 Mentor Skill |
-| `/delete-mentor {slug}` | 删除指定 Mentor Skill |
-
----
 
 ## 效果示例
 
