@@ -50,8 +50,6 @@ and get an **AI Skill that carries their mentorship essence**
 git clone https://github.com/yahao333/mentor.skill ~/.claude/skills/mentor
 ```
 
----
-
 ## Usage
 
 In Claude Code, type:
@@ -60,14 +58,13 @@ In Claude Code, type:
 /mentor
 ```
 
-### Commands
+### Management Commands
 
 | Command | Description |
 |---------|-------------|
-| `/mentor` | Invoke full Skill |
-| `/mentor-career` | Career development advice |
-| `/mentor-feedback` | Feedback mode |
-| `/mentor-challenge` | Challenge your thinking |
+| `/mentor` | Invoke Mentor Skill creator |
+| `/list-mentors` | List all created Mentor Skills |
+| `/delete-mentor {slug}` | Delete specified Mentor Skill |
 
 ---
 

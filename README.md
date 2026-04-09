@@ -50,8 +50,6 @@ and get an **AI Skill that carries their mentorship essence**
 git clone https://github.com/yahao333/mentor.skill ~/.claude/skills/mentor
 ```
 
----
-
 ## 使用
 
 在 Claude Code 中输入：
@@ -60,14 +58,13 @@ git clone https://github.com/yahao333/mentor.skill ~/.claude/skills/mentor
 /mentor
 ```
 
-### 命令
+### 管理命令
 
 | 命令 | 说明 |
 |------|------|
-| `/mentor` | 调用完整 Skill |
-| `/mentor-career` | 职业发展建议 |
-| `/mentor-feedback` | 反馈模式 |
-| `/mentor-challenge` | 挑战你的思维 |
+| `/mentor` | 调用 Mentor Skill 创建器 |
+| `/list-mentors` | 列出所有已创建的 Mentor Skill |
+| `/delete-mentor {slug}` | 删除指定 Mentor Skill |
 
 ---
 
