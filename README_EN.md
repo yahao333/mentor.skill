@@ -58,15 +58,6 @@ In Claude Code, type:
 /mentor
 ```
 
-### Management Commands
-
-| Command | Description |
-|---------|-------------|
-| `/mentor` | Invoke Mentor Skill creator |
-| `/list-mentors` | List all created Mentor Skills |
-| `/delete-mentor {slug}` | Delete specified Mentor Skill |
-
----
 
 ## Demo
 
