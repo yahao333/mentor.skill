@@ -2,7 +2,7 @@
 
 # mentor.skill
 
-> *"A mentor is someone who allows you to see the hope inside yourself."*
+> *"导师是让你看到内心希望的人。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
@@ -11,20 +11,20 @@
 
 <br>
 
-Your mentor guided you through career crossroads,
-shared insights no textbook contains,
-trusted you with responsibilities that accelerated your growth,
-and pushed you just beyond your comfort zone.
+你的导师在你职业转折点给你指引，
+分享了教科书里没有的见解，
+交给你推动你成长的责任，
+在你舒适区边缘推了你一把。
 
-**Preserve their guidance and wisdom — welcome to cyber-immortality!**
+**保留他们的指导和智慧 —— 欢迎加入赛博永生！**
 
 <br>
 
-Provide source materials (Slack messages, emails, meeting notes, feedback)
-plus your memories of their mentorship style,
-and get an **AI Skill that carries their mentorship essence**
+提供原材料（Slack消息、邮件、会议纪要、反馈）
+加上你对他们指导风格的记忆，
+生成一个**承载他们导师灵魂的 AI Skill**
 
-[数据来源](#支持的数据来源) · [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [详细安装说明](INSTALL.md)
+[支持的数据来源](#支持的数据来源) · [安装](#安装) · [使用](#使用) · [效果示例](#效果示例) · [详细安装说明](INSTALL.md)
 
 [**English**](README_EN.md) · [**中文**](README_ZH.md)
 
